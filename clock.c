@@ -12,7 +12,7 @@ void main(){
     }
     while(1){
         s++;
-        if(s>59){
+        if(s>59){ 
             m++;
             s=0;
         }
